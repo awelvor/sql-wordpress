@@ -1,5 +1,9 @@
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [https://vincentdubroeucq.com/utiliser-wp-cli-1/](wp-cli1)
+
+> [!NOTE]
+> [https://vincentdubroeucq.com/utiliser-wp-cli-2/](wp-cli2)
+
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
