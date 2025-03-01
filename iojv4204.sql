@@ -20,10 +20,6 @@ delete from iojv4204_wp810.wpjp_posts where post_type="revision";
 delete from iojv4204_wp810.wpjp_posts where post_status="auto-draft";
 delete from iojv4204_wp810.wpjp_posts where post_status="trash";
 select valeur from iojv4204_spip007.spip_meta where nom='descriptif_site';
-select option_value from  iojv4204_wp41.wpwf_options where option_name="blogname";
-delete from iojv4204_wp41.wpwf_posts where post_type="revision";
-delete from iojv4204_wp41.wpwf_posts where post_status="auto-draft";
-delete from iojv4204_wp41.wpwf_posts where post_status="trash";
 
 
 
