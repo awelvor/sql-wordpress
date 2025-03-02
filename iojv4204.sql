@@ -34,9 +34,8 @@ delete from iojv4204_wp352.wphc_posts where post_type="revision";
 delete from iojv4204_wp810.wpjp_posts where post_type="revision";
 
 
-
-
-/* hospitalité notre dame de lourdes */
+> [!Note]
+> hospitalité notre dame de lourdes
 select option_value from dmvc5041_wp842.wpgk_options where option_name="blogname";
 delete from dmvc5041_wp842.wpgk_posts where post_type="revision";
 delete from dmvc5041_wp842.wpgk_posts where post_status="auto-draft";
